@@ -32,6 +32,7 @@ npm install
 ```
 5) Add your firebase credentials
 ```
+Install firebase on your machine. please follow firebase official documentation, need to create a project on firebase console 
 Go to public\firebaseAuth.js , replace the content with your credentials
 ```
 6) Run the server [point to root directory]
