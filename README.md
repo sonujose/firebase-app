@@ -1,5 +1,5 @@
-# AngularJS Firebase full-stack Kit
-**(Webpack, ES2015, Express, Sass, Babel)**  
+# Firebase Angularjs full-stack Kit
+**(Webpack, ES2015, Angularfire, Sass, Babel)**  
 
 It is a full stack project for AngularJS web application which objects is:
 - Webpack build and bundle all the assests.
@@ -17,7 +17,7 @@ It is a full stack project for AngularJS web application which objects is:
 
 1) Create a new folder for your project, and clone this repo inside it
 ```
-git clone {git url}
+git clone https://github.com/sonujose/Firebase-App.git
 ```
 2) You need to have node and npm installed on your system, `npm version should be grater than 3.x` [2.x version may create issues in loading babel loader dependencies]
    To update npm version run `npm install npm@latest -g`
