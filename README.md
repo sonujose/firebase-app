@@ -12,6 +12,7 @@ It is a full stack project for AngularJS web application which objects is:
 
 ## Future Updates (Working on it)
 - Integrate MongoDB
+- Firebase Authentication
 
 ## Installation
 
