@@ -1,4 +1,4 @@
-# Firebase Angularjs full-stack Kit
+# Firebase Angularjs App
 **(Webpack, ES2015, Angularfire, Sass, Babel)**  
 
 It is a full stack project for AngularJS web application which objects is:
