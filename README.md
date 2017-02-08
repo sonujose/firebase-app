@@ -85,7 +85,7 @@ http://webpack.github.io/analyse/#modules
 ```
 3) upload stats.json file from your repository
 ```
-Now you can analyse your app 
+Now you can analyse your app modules in webpack
 ```
 
 
