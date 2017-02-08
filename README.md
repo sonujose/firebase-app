@@ -30,12 +30,12 @@ npm install --global webpack
 npm install
 ```
 5) Getting ready with firebase
-```
-Install firebase on your machine. Please follow firebase official documentation
-[Wait And Eat](https://github.com/gordonmzhu/angular-course-demo-app-v2)
-Create a project on firebase console 
+
+Install firebase on your machine.
+Please follow firebase documentation for web: [https://firebase.google.com/docs/web/setup](https://firebase.google.com/docs/web/setup)
+Create a project on firebase console. 
 Go to public\firebaseAuth.js , replace the content with your credentials
-```
+
 6) Run the server [point to root directory]
 ```
 firebase serve
