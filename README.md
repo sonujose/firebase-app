@@ -19,7 +19,7 @@ It is a full stack project for AngularJS web application which objects is:
 git clone https://github.com/sonujose/Firebase-App.git
 ```
 2) You need to have node and npm installed on your system, `npm version should be grater than 3.x` [2.x version may create issues in loading babel loader dependencies]
-   To update npm version run `npm install npm@latest -g`
+To update npm version run `npm install npm@latest -g`
 
 3) Install webpack if you don't have it already. Need webpack cli for running the application 
 ```
@@ -29,9 +29,9 @@ npm install --global webpack
 ```
 npm install
 ```
-5) Add your firebase credentials
+5) Getting ready with firebase
 ```
-Install firebase on your machine. please follow firebase official documentation
+Install firebase on your machine. Please follow firebase official documentation
 Create a project on firebase console 
 Go to public\firebaseAuth.js , replace the content with your credentials
 ```
