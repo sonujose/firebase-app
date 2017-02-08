@@ -32,6 +32,7 @@ npm install
 5) Getting ready with firebase
 ```
 Install firebase on your machine. Please follow firebase official documentation
+[Wait And Eat](https://github.com/gordonmzhu/angular-course-demo-app-v2)
 Create a project on firebase console 
 Go to public\firebaseAuth.js , replace the content with your credentials
 ```
