@@ -1,8 +1,8 @@
 # AngFire
 
-[![Build Status](https://travis-ci.org/firebase/firebase-arduino.svg?branch=master)](https://travis-ci.org/firebase/firebase-arduino)
-[![Join the chat at https://gitter.im/googlesamples/firebase-arduino](https://badges.gitter.im/googlesamples/firebase-arduino.svg)](https://gitter.im/googlesamples/firebase-arduino?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Documentation Status](https://readthedocs.org/projects/firebase-arduino/badge/?version=latest)](http://firebase-arduino.readthedocs.io/en/latest/?badge=latest)
+[![Build Status](https://travis-ci.org/firebase/firebase-arduino.svg?branch=master)](https://github.com/sonujose/AngFire)
+[![Join the chat at https://gitter.im/googlesamples/firebase-arduino](https://badges.gitter.im/googlesamples/firebase-arduino.svg)](https://github.com/sonujose/AngFire)
+[![Documentation Status](https://readthedocs.org/projects/firebase-arduino/badge/?version=latest)](https://github.com/sonujose/AngFire)
 
 **(Firebase, Angularjs, Webpack, ES2015, Angularfire, Sass, Babel)**  
 
