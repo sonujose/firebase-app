@@ -53,6 +53,11 @@ npm start
 
 9) Congratulations, you've just setup your Angular Node fullstack application!
 
+10) Deploy your site [point to root directory]
+```
+firebase deploy
+```
+
 ### Basic folder structure
 Some job for Captain Obvious
 ```
