@@ -9,7 +9,7 @@
 It is a full stack project for AngularJS web application which objects is:
 - Webpack build and bundle all the assests.
 - Provide easy to use extensibility with npm managers;
-- Deployed in firebase
+- Deployed in firebase server
 - Supports ES2015 using Babel 
 - Supports SASS for styling you application
 - Firebase Realtime database
