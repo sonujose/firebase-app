@@ -57,15 +57,6 @@ npm start
 ```
 firebase deploy
 ```
-
-### Basic folder structure
-Some job for Captain Obvious
-```
-client/           // Client side files
-node_modules/     // Node Modules
-index.html        // Basic page for angular project
-```
-
 ### Client folder structure
 
 ```
