@@ -4,5 +4,11 @@
     <p>Padding of this box was changed by bootstrap styles override in <span class="text-success">vendor.scss</span></p>
   </div>
   <h3 ng-cloak>{{currentState}}</h3>
-  <h3 ng-cloak>{{text.data}} <span ng-cloak class="text-success">{{text.$id}}</span></h3>
+  
+  <div ng-repeat="article in articleList">
+        <div>{{article.title}}</div>
+        <div>{{article.author}}</div>
+        <div>{{article.readtime}}</div>
+  </div>
+  
 </div>

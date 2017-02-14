@@ -3,11 +3,11 @@
 // Add your firebase credentials
 
 var config = {
-    apiKey: "<API_KEY>",
-    authDomain: "<PROJECT_ID>.firebaseapp.com",
-    databaseURL: "https://<DATABASE_NAME>.firebaseio.com",
-    storageBucket: "<BUCKET>.appspot.com",
-    messagingSenderId: "<SENDER_ID>",
+    apiKey: "AIzaSyDX8-XQp28ho-ulyYDouTehIHBsTK2GGUU",
+    authDomain: "casualchat-154ad.firebaseapp.com",
+    databaseURL: "https://casualchat-154ad.firebaseio.com",
+    storageBucket: "casualchat-154ad.appspot.com",
+    messagingSenderId: "724822975566"
 };
 
 firebase.initializeApp(config);
