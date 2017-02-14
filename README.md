@@ -1,4 +1,4 @@
-# AngFire
+# Angular Firebase app
 
 [![Build Status](https://travis-ci.org/firebase/firebase-arduino.svg?branch=master)](https://github.com/sonujose/AngFire)
 [![Join the chat at https://gitter.im/googlesamples/firebase-arduino](https://badges.gitter.im/googlesamples/firebase-arduino.svg)](https://github.com/sonujose/AngFire)
