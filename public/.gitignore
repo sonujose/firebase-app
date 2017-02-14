@@ -2,4 +2,3 @@ node_modules
 client/build/*.*
 npm-debug.log
 stats.json
-firebaseAuth.js
